@@ -1,8 +1,27 @@
-# UAV-DATASET
-The dataset provided is just for research purposes and will not be used in any commercial demonstration elsewhere. 
+# UAV-DA
 
-OPENLY Available UAV DATASET
-https://www.geonadir.com/
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]TASET
+
+<h3 align="center">The dataset provided is just for research purposes and will not be used in any commercial demonstration elsewhere. </h3>
+
+### OPENLY Available UAV DATASET
+  
+* [![Geonadir][www.geonadir.com]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+* 
+https://
 https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760
 https://ieee-dataport.org/open-access/uav-attack-dataset
 https://projects.asl.ethz.ch/datasets/doku.php?id=weedmap:remotesensing2018weedmap
