@@ -1,4 +1,5 @@
 # UAV-DATASET
+The dataset provided is just for research purposes and will not be used in any commercial demonstration elsewhere. 
 
 OPENLY Available UAV DATASET
 https://www.geonadir.com/
